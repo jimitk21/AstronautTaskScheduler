@@ -4,7 +4,7 @@
   [Repository Link 1](https://github.com/jimitk21/design-pattern-java)
 
 - **Exercise 2: Problem Statement for Mini-projects**  
-  1. Astronaut Daily Schedule Organizer Programming Exercise  
+   Astronaut Daily Schedule Organizer Programming Exercise  
   [Repository Link 2](https://github.com/jimitk21/AstronautTaskScheduler)
 
 ---
