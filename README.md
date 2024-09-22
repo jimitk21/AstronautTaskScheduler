@@ -40,16 +40,22 @@ This is a console-based application that helps astronauts organize their daily s
 
 
 ## Project Folder Structure
-src/ - Source code directory
-    com/ - Main package for the application
-        astronaut/ - Package for astronaut-related functionalities
-            schedule/ - Package for scheduling tasks
-                Main.java                     # Main application class with the user interface
-                Task.java                     # Class representing the Task object
-                TaskFactory.java              # Factory class for creating tasks based on priority
-                ScheduleManager.java          # Singleton class for managing task addition, removal, and viewing
-                TaskConflictObserver.java     # Interface for conflict notifications
-                ConflictNotifier.java         # Class implementing conflict detection for tasks
+
+- `src/` - Source code directory
+  - `main/` - Main application package
+    - `java/` - Java files
+      - `com/` - Package for the application
+        - `astronaut/` - Main package for the application
+          - `schedule/` - Package for scheduling classes
+            - `Main.java` - Main application class with the user interface
+            - `Task.java` - Class representing the Task object
+            - `TaskFactory.java` - Factory class for creating tasks based on priority
+            - `ScheduleManager.java` - Singleton class for managing task addition, removal, and viewing
+            - `TaskConflictObserver.java` - Interface for conflict notifications
+            - `ConflictNotifier.java` - Class implementing conflict detection for tasks
+  - `LICENSE` - License file for the project
+  - `README.md` - Documentation for the project
+
 
 
    
