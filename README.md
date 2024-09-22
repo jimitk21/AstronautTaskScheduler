@@ -24,6 +24,7 @@ This is a console-based application that helps astronauts organize their daily s
 4. Run the code:
    ```bash
    java -cp . main.java.com.astronaut.schedule.Main
+   ```
 
 
    
