@@ -1,8 +1,11 @@
 # EI-Assignments
 
-- **Exercise 1: Problem Statement on Design patterns** [Repository Link 1] (https://github.com/jimitk21/design-pattern-java)
-In this repo I have implemented the Exercise 2: Problem Statements for Mini-projects (1. Astronaut Daily Schedule Organizer Programming Exercise) [Repository Link 2] (https://github.com/jimitk21/AstronautTaskScheduler)
+- **Exercise 1: Problem Statement on Design Patterns**  
+  [Repository Link 1](https://github.com/jimitk21/design-pattern-java)
 
+- **Exercise 2: Problem Statement for Mini-projects**  
+  1. Astronaut Daily Schedule Organizer Programming Exercise  
+  [Repository Link 2](https://github.com/jimitk21/AstronautTaskScheduler)
 
 ---
 
