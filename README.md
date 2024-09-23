@@ -88,5 +88,26 @@ This is a console-based application that helps astronauts organize their daily s
 ![image](https://github.com/user-attachments/assets/1de8a7ef-3f23-402a-b390-3bc0abbab101)
 
 
+# Negative Case
 
+
+- Validation that new tasks do not overlap with existing tasks.
+
+![image](https://github.com/user-attachments/assets/c536eb72-2aa4-4bff-a14c-3e875d933a14)
+
+- Removing Non existing task
+
+![image](https://github.com/user-attachments/assets/8e83d74f-ab38-439d-a9a9-ed5cb721e0d5)
+
+- Invalide Time Format
+
+![image](https://github.com/user-attachments/assets/bf9b3097-96b9-42f9-ace5-55c09d2f8e25)
+
+- When no task exist
+
+![image](https://github.com/user-attachments/assets/cda036ea-fb86-4f40-aae4-96e0577af54e)
+
+- Task Overlapping
+
+![image](https://github.com/user-attachments/assets/8adb8adb-90b9-411f-b597-645f360f5f9b)
 
