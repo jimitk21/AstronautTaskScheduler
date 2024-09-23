@@ -71,3 +71,22 @@ This is a console-based application that helps astronauts organize their daily s
   
 ![image](https://github.com/user-attachments/assets/e45f3577-0050-43b3-9795-f03e0aca207f)
 
+- Adding task
+
+![image](https://github.com/user-attachments/assets/493152e7-6caa-4499-ad5f-c430f1d98eeb)
+
+- Viewing task
+
+![image](https://github.com/user-attachments/assets/b7863692-6b67-426e-bf4c-51e53c02d58d)
+
+- Removing task
+
+![image](https://github.com/user-attachments/assets/d33b384f-a403-4c8f-8076-aeff9311e690)
+
+- Sorting by Time
+
+![image](https://github.com/user-attachments/assets/1de8a7ef-3f23-402a-b390-3bc0abbab101)
+
+
+
+
