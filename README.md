@@ -65,3 +65,8 @@ This is a console-based application that helps astronauts organize their daily s
 - View all tasks sorted by start time.
 - Validation that new tasks do not overlap with existing tasks.
 - Provide appropriate error messages for invalid operations.
+
+## Usage 
+- Initial Screen
+![image](https://github.com/user-attachments/assets/e45f3577-0050-43b3-9795-f03e0aca207f)
+
