@@ -13,7 +13,7 @@
 # AstronautTaskScheduler
 
 **Exercise 2 of Education Initiatives**  
-This is a console-based application that helps astronauts organize their daily schedules. The application allows users to add, remove, and view daily tasks. Each task has a description, start time, end time, and priority level.
+This is a console-based application that helps astronauts organize their daily schedules. The application allows users to add, remove and view daily tasks. Each task has a description, start time, end time, and priority level.
 
 ## Getting Started
 
